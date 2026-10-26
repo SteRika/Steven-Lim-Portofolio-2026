@@ -1,20 +1,26 @@
-# Steven Lim — Portfolio Website
+# Steven Lim — Engineering Portfolio
 
-Professional portfolio for Steven Lim: software engineering, industrial automation, MES/SAP integration, robotics, and R&D leadership.
+Live: https://sterika.github.io/Steven-Lim-Portofolio-2026/
 
-## Hosting with GitHub Pages
+Professional public portfolio for Steven Lim, R&D Manager, industrial software engineer, and systems integrator.
 
-1. Open the repository **Settings → Pages**: https://github.com/SteRika/Steven-Lim-Portofolio-2026/settings/pages
-2. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
-3. Select **main** and **/ (root)**, then click **Save**.
-4. GitHub Pages should publish at https://sterika.github.io/Steven-Lim-Portofolio-2026/ once deployment completes. Confirm the exact URL in the Pages settings.
+## Content
+- Verified career milestones and concise professional introduction
+- Three engineering case studies (SAP/MES, production automation, customer-machine interfaces)
+- Nine additional software, IoT, vision, and personal projects, with accurate completion states
+- Measurable operations and engineering leadership impact
+- Downloadable two-page professional resume
+- Accessible navigation and filterable projects
+- Responsive mobile, tablet and desktop layout
+- Social preview image for link sharing
 
-The entire website is in `index.html` with inline CSS and JavaScript. No build step or external runtime is required.
+## Files
+- index.html: static website with HTML, CSS, JavaScript and inline SVG site favicon
+- assets/steven-lim-portrait.jpg: optimized headshot
+- assets/social-preview.jpg: social sharing image (1200x630)
+- assets/Steven_Lim_Resume.pdf: downloadable resume
 
-## Edits
+No build tools or server-side stack required. GitHub Pages publishes directly from main.
 
-Change `index.html` and commit to `main` to publish an updated version after Pages has been enabled.
-
-## Privacy and project confidentiality
-
-Before public sharing, verify all contact information, project statements, client work references, and company approvals. No internal endpoints or proprietary technical documentation should be exposed.
+## Editing
+Modify index.html or assets and commit to main. Avoid uploading confidential production data, customer information, or unverified commercial results.
